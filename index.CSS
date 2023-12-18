@@ -1,0 +1,335 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    height:3000px;
+    width: 98vw;
+    border: 5px solid black;
+    margin-top:15px ;
+}
+
+#news{
+    text-align: center;
+    margin-top:60px;
+    font-weight: 600;
+    font-size: 125px;
+    
+
+
+}
+
+#news-circle {
+    background-color:red;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-left: 74rem;
+    margin-top:-8rem;
+    text-align: center;
+}
+
+#text{
+    margin-left:58rem;
+    margin-top:-7rem ;
+    font-family: silver;
+} 
+hr{
+    margin-top:10px ;
+}
+#input-box{
+    margin-left:50rem ;
+    margin-top: 5rem;
+    height:10vh;
+    width:20vw;
+    font-size: 36px;
+    padding-left: 90px;
+}
+
+#search{
+    margin-left: 52rem;
+    margin-top: -60px;
+    font-size:38px ;
+    color: silver;
+}
+
+#button{
+    height:86px;
+    width:11vh;
+    margin-left: 74rem;
+    margin-top: -70px;
+    background-color: red;
+    
+}
+#button{
+    padding-left: 28px;
+    padding-top: 21px;
+    font-size: 38px;
+    color: white;
+}
+
+h2{
+   
+    margin-left: 290px;
+    margin-top:200px ;
+    font-size: 38px;
+    color: red;
+}
+
+#box{
+     
+    display: grid;
+    grid-template-columns: repeat(3, 400px);
+    grid-template-rows: repeat(3, 1fr);
+    row-gap:200px;
+    column-gap:6px;
+    margin-top: 2rem; 
+    margin-left: 18rem; 
+}
+
+.boxs{
+   
+    height:430px;
+    width: 330px;
+   
+}
+
+#bottom{
+    margin-top: 160px;
+}
+#word{
+    text-align: center;
+    margin-right: 450px;
+    font-size: 33px;
+    margin-top: 60px;
+}
+#cirle{
+    background-color:red;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    margin-left: 49rem;
+    margin-top:-2rem;
+    text-align: center;
+
+}
+#words{
+    text-align: center;
+    margin-left:470px ;
+    margin-top: -28px;
+    font-size: 33px;
+
+}
+#img{
+    height:200px;
+    width:300px;
+}
+
+
+#title{
+    height:140px;
+    width:300px;
+    font-size: 20px;
+    margin-top: 15px;
+
+}
+#description{
+    height:170px;
+    width:300px;
+    font-size: 23px;
+    margin-top:10px;
+ 
+}
+
+/* box2 */
+#img1{
+    height:200px;
+    width:300px;
+   
+}
+
+
+#title1{
+    height:140px;
+    width:300px;
+    font-size: 20px;
+   
+
+}
+#description1{
+    height:170px;
+    width:300px;
+    font-size:25px ;
+   
+
+}
+
+/* box3 */
+
+#img2{
+    height:200px;
+    width:300px; 
+}
+
+
+#title2{
+    height:140px;
+    width:300px;
+    font-size: 22px;
+}
+
+#description2{
+    height:170px;
+    width:300px;
+    font-size: 25px;
+   
+
+}
+
+#img3{
+    height:200px;
+    width:300px;
+    
+}
+
+
+#title3{
+    height:140px;
+    width:300px;
+    font-size: 25px;
+    margin-top:10px ;
+   
+
+}
+#description3{
+    height:170px;
+    width:300px;
+    font-size:24px;
+    margin-top: 15px;
+  
+
+}
+
+#img4{
+    height:200px;
+    width:300px;
+    
+}
+
+
+#title4{
+    height:140px;
+    width:300px;
+    font-size: 22px;
+    margin-top: 10px;
+ 
+
+}
+#description4{
+    height:170px;
+    width:300px;
+    font-size: 25px;
+    margin-top: 20px;
+    
+
+}
+
+#img5{
+    height:200px;
+    width:300px;
+  
+}
+
+
+#title5{
+    height:140px;
+    width:300px;
+    font-size:25px ;
+    margin-top: 7px;
+
+    
+
+}
+#description5{
+    height:170px;
+    width:300px;
+    font-size:25px;
+    margin-top: 25px;
+   
+
+}#img6{
+    height:200px;
+    width:300px;
+}
+
+
+#title6{
+    height:140px;
+    width:300px;
+    font-size:20px ;
+   
+
+}
+#description6{
+    height:170px;
+    width:300px;
+    font-size:23px ;
+   
+
+}
+
+#img7{
+    height:200px;
+    width:300px;
+  
+}
+
+
+#title7{
+    height:140px;
+    width:300px;
+    font-size: 25px;
+    margin-top: 10px;
+    
+
+}
+#description7{
+    height:170px;
+    width:300px;
+    font-size: 20px;
+    margin-top:25px;
+    
+
+}
+
+#img8{
+    height:200px;
+    width:300px; 
+}
+
+#title8{
+    height:140px;
+    width:300px;
+    font-size:20px ;
+    margin-top: 10px;
+ 
+
+}
+#description8{
+    height:155px;
+    width:300px;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+
+.arrow{
+   margin-top:30px ; 
+   margin-left:148px;
+   color: red;
+
+}
+h3{
+    margin-top: -25px;
+}
